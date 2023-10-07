@@ -26,7 +26,6 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         <TextBox x:Name="txtInput" Grid.Row="0" Grid.ColumnSpan="4" Margin="2" TextAlignment="Right" Text="0" FontSize="20" IsReadOnly="True"/>
-        <Button x:Name="btn7" Content="7" Grid.Row="2" Grid.Column="0" FontSize="20" Margin="2" Click="regularButtonClick"/>
         <Button x:Name="btn8" Content="8" Grid.Row="2" Grid.Column="1" FontSize="20" Margin="2" Click="regularButtonClick"/>
         <Button x:Name="btn9" Content="9" Grid.Row="2" Grid.Column="2" FontSize="20" Margin="2" Click="regularButtonClick"/>
         <Button x:Name="btn4" Content="4" Grid.Row="3" Grid.Column="0" FontSize="20" Margin="2" Click="regularButtonClick"/>
